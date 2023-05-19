@@ -19,5 +19,3 @@ WordChainGame game referring to [끄투](http://kkutu.kr/).
 data.js :  the words used in the game(Sources: [네이버 국어사전](https://ko.dict.naver.com/#/main))
 
 *.img : used for Web site implementation
-
-### Steps to execute the project
