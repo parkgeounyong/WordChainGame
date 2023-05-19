@@ -16,6 +16,6 @@ End-to-end game referring to [끄투](http://kkutu.kr/).
 - [help-게임규칙.html](https://github.com/parkgeounyoung/WordChainGame/blob/main/help-%EA%B2%8C%EC%9E%84%EA%B7%9C%EC%B9%99.html): Page can check game rule
 - [help-도움받은 곳.html](https://github.com/parkgeounyoung/WordChainGame/blob/main/help-%EB%8F%84%EC%9B%80%EB%B0%9B%EC%9D%80%20%EA%B3%B3.html): Page can check source of assistance in the project
 
-data.js :  the words used in the game(Sources: [네이버 국어사전](https://ko.dict.naver.com/#/main)
+data.js :  the words used in the game(Sources: [네이버 국어사전](https://ko.dict.naver.com/#/main))
 
 *.img : used for Web site implementation
